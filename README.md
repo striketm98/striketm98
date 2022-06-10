@@ -1,4 +1,4 @@
-### Hi there print("Tamal_HERE") 👋
+### Hi There print("Tamal_HERE") 👋
 
 <!--
 **striketm98/striketm98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning ...
+ 
+https://en.wikipedia.org/wiki/HTML 
