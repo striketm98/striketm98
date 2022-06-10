@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
  
-![image](https://user-images.githubusercontent.com/65080702/173067020-f8d2579d-2d78-4694-a8eb-89ed95e92155.png=500x300)
+![](https://user-images.githubusercontent.com/65080702/173067020-f8d2579d-2d78-4694-a8eb-89ed95e92155.png=500x300)
 
 
 
