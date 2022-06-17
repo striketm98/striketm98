@@ -40,6 +40,15 @@ review and enhance configuration for optimal customer satisfaction.
 ![image](https://user-images.githubusercontent.com/65080702/174346679-db411b95-6be1-4a9d-82ef-537e55a147df.png)
 ![image](https://user-images.githubusercontent.com/65080702/174346745-0b534308-cae4-4f53-9e79-101ece98d453.png)
 
+# ⚡ OS:
+
+![image](https://user-images.githubusercontent.com/65080702/174349583-0fd68f76-da16-4faa-92b3-cf4c3ff17bcc.png)
+![image](https://user-images.githubusercontent.com/65080702/174349663-cd3f4bad-6f53-4768-ae2a-b56a7abb8cc7.png)
+
+# 🤔 CLOUD:
+
+![image](https://user-images.githubusercontent.com/65080702/174349732-31254ccb-7c4a-44a5-bca1-90d90e2290be.png)
+
 
 # 📫 How to reach me:
 * <img src="https://user-images.githubusercontent.com/65080702/174347653-2bee1d5d-2597-43bd-ae84-086673a2e149.png" width="20" height="20"> tamal.mazumder4398@gmail.com
