@@ -39,6 +39,7 @@ review and enhance configuration for optimal customer satisfaction.
 ![image](https://user-images.githubusercontent.com/65080702/174346622-a192e1fc-a225-4958-a9d0-4cb6ad1efeb2.png)
 ![image](https://user-images.githubusercontent.com/65080702/174346679-db411b95-6be1-4a9d-82ef-537e55a147df.png)
 ![image](https://user-images.githubusercontent.com/65080702/174346745-0b534308-cae4-4f53-9e79-101ece98d453.png)
+![image](https://user-images.githubusercontent.com/65080702/176676900-ba580931-2e22-4580-9f22-47ac04b3e758.png)
 
 # ⚡ OS:
 
