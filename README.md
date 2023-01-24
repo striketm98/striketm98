@@ -33,6 +33,8 @@ review and enhance configuration for optimal customer satisfaction.
 
 ###  🔭 I’m currently Known tools in DevOps:
 <img src="https://user-images.githubusercontent.com/65080702/174346622-a192e1fc-a225-4958-a9d0-4cb6ad1efeb2.png" width="80" height="80"><img src="https://user-images.githubusercontent.com/65080702/174346745-0b534308-cae4-4f53-9e79-101ece98d453.png" width="80" height="80">
+<img src="https://user-images.githubusercontent.com/65080702/214372452-88d9e95c-a7d6-4ac3-90f4-a943f938ade2.png" width="80" height="60">
+
 
 ###  🔭 I’m currently Known tools in DAST:
 <img src="https://user-images.githubusercontent.com/65080702/176676900-ba580931-2e22-4580-9f22-47ac04b3e758.png" width="150" height="80"><img src="https://user-images.githubusercontent.com/65080702/214351111-1f306640-58f3-46ba-b74a-a35af580fd58.png" width="80" height="80">
