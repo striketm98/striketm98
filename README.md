@@ -45,6 +45,8 @@ review and enhance configuration for optimal customer satisfaction.
 
 ![image](https://user-images.githubusercontent.com/65080702/174349583-0fd68f76-da16-4faa-92b3-cf4c3ff17bcc.png)
 ![image](https://user-images.githubusercontent.com/65080702/174349663-cd3f4bad-6f53-4768-ae2a-b56a7abb8cc7.png)
+<img src="https://user-images.githubusercontent.com/65080702/214345863-3aca81d7-977a-40e3-bc18-d15aa915d359.png" width="80" height="80">
+
 
 # 🤔 CLOUD:
 
