@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 💬 Ask me about >
 
-* Technically-sound software Engineer effective in analyzing relevant information and guiding product cycle 
+- Technically-sound software Engineer effective in analyzing relevant information and guiding product cycle 
 from conception to completion. Manages and design effort and guides installation process for on-schedule 
 product launches. 
-* Consults with internal and external clients and employee’s additional system resources to 
+- Consults with internal and external clients and employee’s additional system resources to 
 review and enhance configuration for optimal customer satisfaction. 
 
 
