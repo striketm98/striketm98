@@ -1,4 +1,4 @@
-### Hi There I am Tamal 👋
+# Hi There, I am Tamal | cyber security enthusiast 👋
 
 <!--
 **striketm98/striketm98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,42 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💬 Ask me about >
+## 💬 ABOUT ME :) 
 
-- Technically-sound software Engineer effective in analyzing relevant information and guiding product cycle 
-from conception to completion. Manages and design effort and guides installation process for on-schedule 
-product launches. 
-- Consults with internal and external clients and employee’s additional system resources to 
-review and enhance configuration for optimal customer satisfaction. 
+***o	Perform tests on applications, network devices, and cloud infrastructures***
+
+***o	Network Packet Analysis***
+
+***o	Advanced Threat Detection***
+
+***o	Analyzing network traffics***
+
+***o	Cloud computing and infrastructure (AWS, Google Cloud Platform, Azure)***
+
+**o Security vulnerability from source code testing ,Pen testing (Burp Suite),Java, Java script ,Python,Security Event Response,Endpoint protection ,PowerShell scripting***
+
+***o	Risk Management Framework and POA&M remediation.***
+
+***o	Runtime Application Self-Protection (RASP)***
+
+***o	Lead Dynamic Application Security Testing (DAST)***
+
+***o	Lead Static Application Security Testing (SAST)***
+
+***o	Lead Interactive Application Security Testing (IAST)***
+
+***o	Develop methodologies for penetration testing***
+
+***o	Review code for security vulnerabilities***
+
+***o	Reverse engineer malware or spam***
+
+***o	Document security and compliance issues***
+
+***o	Automate common testing techniques to improve efficiency***
+
+***o	Write technical and executive reports***
+
+***o	Communicate findings to both technical staff and executive leadership***
+
+***o	Validate security improvements with additional testing***
+
+***o	Implement and improve monitoring and alerting.***
+
+***o	Build and maintain highly available systems on Kubernetes.***
+
+***o	Implement and manage CI/CD pipelines.***
+
+***o	Implement an auto-scaling system for our Kubernetes nodes***
 
 
+## ![settings_78352](https://github.com/striketm98/striketm98/assets/65080702/2d557729-376b-451d-aac5-0806667a73ef) USED Environment:
 
-###  🌱 I’m currently comfortable  framework:
-<img src="https://user-images.githubusercontent.com/65080702/214356222-ef456b41-faad-458c-abf2-4898a6c268d3.png" width="75" height="75"><img src="https://user-images.githubusercontent.com/65080702/214357379-8c1f96fb-813d-4bb0-b92e-089d36d42934.png" width="55" height="75">
-<img src="https://user-images.githubusercontent.com/65080702/214357814-d41f875b-97ca-464e-aa96-6cb661834ef4.png" width="80" height="45">
-<img src="https://user-images.githubusercontent.com/65080702/214359671-12c65ba7-972c-4f87-924b-3bada517812a.png" width="65" height="65">
+![burp_suite_macos_bigsur_icon_190319](https://github.com/striketm98/striketm98/assets/65080702/2ea56ebd-a896-4cf3-b99a-136055de1bcd)
+![image](https://github.com/striketm98/striketm98/assets/65080702/1edc926d-d464-4361-9980-de4d6780b3f0)
+![jenkins_official_logo_icon_168605](https://github.com/striketm98/striketm98/assets/65080702/a7dbce30-57c0-4a21-9c4f-935cd438d165)
+![docker_original_wordmark_logo_icon_146557](https://github.com/striketm98/striketm98/assets/65080702/4850ff63-7ef2-4ca3-ab32-93ff5d638bc4)
+![kubernetes_logo_icon_168359](https://github.com/striketm98/striketm98/assets/65080702/458a0762-0b41-4cd5-9201-2c9deafd3d96)
+![ubuntu_14143](https://github.com/striketm98/striketm98/assets/65080702/8ac728e0-eb4c-477d-abaa-6634fe63a241)
+![Windows_Phone_icon-icons com_66782](https://github.com/striketm98/striketm98/assets/65080702/bc320672-cf41-47df-93df-0d038a350015)
 
-
-###  🔭 I’m currently Known tools in DevOps:
-<img src="https://user-images.githubusercontent.com/65080702/174346622-a192e1fc-a225-4958-a9d0-4cb6ad1efeb2.png" width="80" height="80"><img src="https://user-images.githubusercontent.com/65080702/174346745-0b534308-cae4-4f53-9e79-101ece98d453.png" width="80" height="80">
-<img src="https://user-images.githubusercontent.com/65080702/214372452-88d9e95c-a7d6-4ac3-90f4-a943f938ade2.png" width="80" height="60">
-
-
-###  🔭 I’m currently Known tools in DAST:
-<img src="https://user-images.githubusercontent.com/65080702/176676900-ba580931-2e22-4580-9f22-47ac04b3e758.png" width="150" height="80"><img src="https://user-images.githubusercontent.com/65080702/214351111-1f306640-58f3-46ba-b74a-a35af580fd58.png" width="80" height="80">
-
-###  🔭 I’m currently Known tools in NetworkSecurity:
-<img src="https://user-images.githubusercontent.com/65080702/214355279-26029507-e93d-40f5-b9ae-05e6db28b53d.png" width="80" height="80"><img src="https://user-images.githubusercontent.com/65080702/214361697-3a6c0973-1501-42b0-bd69-ef1bc00d5cb3.png" width="65" height="65">
-<img src="https://user-images.githubusercontent.com/65080702/214362386-9994f2a7-a624-4ac3-ad73-a7b3be276d17.png" width="75" height="75">
-
-
-###  ⚡I’m currently Known tools in OS:
-
-<img src="https://user-images.githubusercontent.com/65080702/214345863-3aca81d7-977a-40e3-bc18-d15aa915d359.png" width="60" height="60"><img src="https://user-images.githubusercontent.com/65080702/214368651-904770b1-168a-40b0-b91c-eda82f889bd8.png" width="75" height="75">
-
-###  🤔 I’m currently Known tools in Cluod:
-<img src="https://user-images.githubusercontent.com/65080702/214362841-69e55006-dff4-4634-b98c-04c76664daeb.png" width="80" height="80">  <img src="https://user-images.githubusercontent.com/65080702/214371949-99e098b9-8703-4972-9fc7-57a957ad69a7.png" width="65" height="50">
-
-
-###  📫 How to reach me:
-<img src="https://user-images.githubusercontent.com/65080702/214366429-e77709b5-93a4-414b-82fe-5a064157d2a6.png" width="20" height="20">    tamalmazumder@proton.me
