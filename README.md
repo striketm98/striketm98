@@ -52,6 +52,6 @@ I lead a job-oriented technical training program designed for **B.Sc. and B.Tech
 * 🔭 **Currently working on:** Automating complex pentesting workflows for Kubernetes.
 * 🌱 **Learning:** Advanced AI/ML Governance and Zero Trust Architecture.
 * 👯 **Looking to collaborate on:** Open-source security tools and DevSecOps frameworks.
-* 📫 **Contact:** @tamal.mazumder | tamal.mazumder4398@gmail.com
+* 📫 **Contact:** @tamal.mazumder | tamal.mazum4398@gmail.com
 
 ---
