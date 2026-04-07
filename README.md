@@ -48,19 +48,10 @@ I lead a job-oriented technical training program designed for **B.Sc. and B.Tech
 | **Platforms** | `Kali Linux`, `Ubuntu`, `AWS`, `GCP`, `Azure` |
 
 ---
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=striketm98&show_icons=true&theme=radical&hide_border=true" alt="Tamal's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=striketm98&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 * 🔭 **Currently working on:** Automating complex pentesting workflows for Kubernetes.
 * 🌱 **Learning:** Advanced AI/ML Governance and Zero Trust Architecture.
 * 👯 **Looking to collaborate on:** Open-source security tools and DevSecOps frameworks.
-* 📫 **Contact:** [Your LinkedIn Profile Link] | [Your Business Email]
+* 📫 **Contact:** @tamal.mazumder | tamal.mazumder4398@gmail.com
 
 ---
