@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=github)
 ![Specialization](https://img.shields.io/badge/Specialization-AppSec%2C%20AI%20Security%20%26%20DevSecOps-green?style=for-the-badge&logo=checkmarx)
 
-An experienced **Cybersecurity Professional** specializing in **Offensive Security**, **AI/LLM Security**, **Cloud-Native Infrastructure**, and **Strategic GRC**. I bridge the gap between technical exploitation, AI safety, and executive risk management.
+An experienced **Cybersecurity Professional** specializing in **Offensive Security**, **AI/LLM Security**, **Cloud-Native Infrastructure**, and **Strategic GRC**. I bridge the gap between technical expertise and business risk management, delivering enterprise-grade security solutions.
 
 ---
 
@@ -132,45 +132,38 @@ I lead specialized training programs for **B.Sc. and B.Tech graduates** to bridg
 
 ---
 
-## 📈 Strategic Impact & Metrics
+## 🎓 Certifications & Credentials
 
-### **Security Assessments & Impact (2024-2026)**
+- **Offensive Security Certified Professional (OSCP)**
+- **Certified Ethical Hacker (CEH)**
+- **AWS Certified Security Specialist**
+- **Kubernetes Security Specialist**
+- **GIAC Security Essentials (GSEC)**
 
-```mermaid
-pie title  "Security Engagements with Multinational Clients"
-    "Penetration Tests" : 12
-    "SAST/DAST Analysis" : 14
-    "AI/LLM Security Audits" : 8
-    "Cloud Security Assessments" : 10
-    "GRC Compliance Audits" : 9
-```
+---
 
-### **Key Achievements**
+## 📊 Key Achievements & Impact
+
+### **Security Assessments & Engagements (2024-2026)**
+
+| Category | Count |
+|----------|-------|
+| Penetration Tests | 12 |
+| SAST/DAST Analysis | 14 |
+| AI/LLM Security Audits | 8 |
+| Cloud Security Assessments | 10 |
+| GRC Compliance Audits | 9 |
+
+### **Professional Metrics**
+
 - ✅ **5+ Years** of hands-on cybersecurity experience
 - ✅ **40+ Enterprise Clients** across EMEA and APAC regions
 - ✅ **100+ Vulnerabilities** identified and remediated
 - ✅ **Kubernetes Security** implementations for Fortune 500 companies
 - ✅ **AI/LLM Security Research** contributing to industry standards
-- ✅ **Training Programs** delivering mentorship to 200+ cybersecurity professionals
-
----
-
-## 🎓 Certifications & Credentials
-- Offensive Security Certified Professional (OSCP)
-- Certified Ethical Hacker (CEH)
-- AWS Certified Security Specialist
-- Kubernetes Security Specialist
-- GIAC Security Essentials (GSEC)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=striketm98&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=striketm98&layout=compact&theme=dark)
+- ✅ **200+ Cybersecurity Professionals** trained and mentored
 
 ---
 
 **Last Updated:** June 2026  
 *Always learning. Always securing. Always innovating.* 🔐
-
