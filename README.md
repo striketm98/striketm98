@@ -1,162 +1,115 @@
-# Hi there, I'm Cyber-Hunter 👋 
-### **Lead Application Security Engineer | AI Security Researcher | DevSecOps Architect**
+<!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cyber-Hunter&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Lead%20AppSec%20Engineer%20%7C%20AI%20Security%20Researcher%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=62" alt="header" />
+</p>
 
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=expert)
-![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-orange?style=for-the-badge&logo=googlemaps)
-![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=github)
-![Specialization](https://img.shields.io/badge/Specialization-AppSec%2C%20AI%20Security%20%26%20DevSecOps-green?style=for-the-badge&logo=checkmarx)
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Offensive+Security+Expert;AI%2FLLM+Security+Researcher;DevSecOps+%26+Cloud-Native+Architect;Building+AutoSecForge+Pro;Training+Next-Gen+Cyber+Professionals" alt="Typing SVG" />
+</p>
 
-An experienced **Cybersecurity Professional** specializing in **Offensive Security**, **AI/LLM Security**, **Cloud-Native Infrastructure**, and **Strategic GRC**. I bridge the gap between technical expertise and business risk management, delivering enterprise-grade security solutions.
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tamal-kanti-mazumder-707198175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mazumdertamal81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/striketm98">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/striketm98">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 🛡️ Professional Pillars
-
-### 🚀 **AppSec, AI Security & DevSecOps**
-* **Application Security:** Advanced **SAST, DAST, IAST,** and **RASP** implementation.
-* **AI/LLM Security:** Specialized in **Generative AI** security gates, **LLM API** protection, and prompt injection prevention.
-* **Cloud-Native Security:** Engineering high-availability **Kubernetes** clusters with secure **CI/CD** pipelines.
-* **Container Hardening:** Specialized in **Docker** runtime protection, image scanning, and auto-scaling node security.
-* **Cloud Defense:** Multi-cloud security across **AWS, GCP, and Azure** with infrastructure-as-code security.
-
-### ⚔️ **Offensive Security & Threat Research**
-* **Penetration Testing:** Deep-dive exploitation of Web, Network, Cloud, and API infrastructures.
-* **AI Security Research:** Threat modeling for **Generative AI systems** and **Large Language Models**.
-* **Red Teaming:** Advanced threat detection, packet analysis, malware reverse engineering, and adversarial testing.
-* **Security Automation:** Building intelligent threat detection and remediation systems.
-
-### 📋 **GRC, Compliance & Strategic Leadership**
-* **Compliance Frameworks:** Aligning technical findings with **RMF**, **NIST**, **SOC 2**, and **ISO 27001** standards.
-* **Risk Management:** Managing **POA&M** remediation, vulnerability assessments, and technical audits for **EMEA/APAC** clients.
-* **Executive Reporting:** Translating technical vulnerabilities into actionable C-suite risk reports and strategic recommendations.
-* **Audit Leadership:** Leading technical audits and compliance assessments for enterprise environments.
-
----
-
-## 🚀 Current Projects & Open Source
-
-### **AutoSecForge Pro** (Enterprise DAST Platform)
-An AI-powered **Dynamic Application Security Testing (DAST)** platform with intelligent vulnerability scanning.
-- 🤖 AI-driven vulnerability detection and analysis
-- 🔍 Advanced payload generation and threat modeling
-- 📊 Enterprise-grade reporting and compliance tracking
-- 🔐 Multi-tenant architecture with role-based access control
-- **Status:** Active Development (v2.2.0+)
-
-### **Security Automation Projects**
-* Kubernetes security scanning and compliance automation
-* AI-driven threat hunting and incident detection systems
-* Infrastructure-as-code security validation tools
-* CI/CD pipeline security hardening frameworks
+<!-- Location & Status -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Kolkata,%20India-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/⏳-5%2B%20Years%20Experience-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯-Actively%20Building-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔐-Available%20for%20Consulting-success?style=flat-square" />
+</p>
 
 ---
 
-## 👨‍🏫 Technical Training & Mentorship
+## 🛡️ About Me
 
-I lead specialized training programs for **B.Sc. and B.Tech graduates** to bridge the industry skill gap.
+> **Bridging the gap between technical expertise and business risk management.**
 
-* **Programs:** 
-  - Real-world Penetration Testing Bootcamp
-  - Cloud-Native Security & DevSecOps Labs
-  - AI/LLM Security Workshop
-  - Kubernetes Security Deep Dive
-  - GRC & Compliance Training
+I'm an experienced **Cybersecurity Professional** specializing in **Offensive Security**, **AI/LLM Security**, **Cloud-Native Infrastructure**, and **Strategic GRC**. I deliver enterprise-grade security solutions that protect critical assets while enabling business innovation.
 
-* **Delivery:** Online batches and **Premium Offline Training in Kolkata**
+- 🔭 Currently building **AutoSecForge Pro** — an AI-powered DAST platform
+- 🧠 Researching **LLM Security** and adversarial AI exploitation techniques
+- 🚀 Automating **Kubernetes security** scanning with AI-driven insights
+- 👨‍🏫 Mentoring **200+ cybersecurity professionals** through specialized training programs
 
 ---
 
-## 🛠️ Tech Stack & Environment
+## 🎯 Core Competencies
 
-### **Security & Testing Tools**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0066FF?style=for-the-badge&logo=owasp&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+### 🚀 Application Security & DevSecOps
+| Domain | Expertise |
+|--------|-----------|
+| **AppSec** | SAST, DAST, IAST, RASP implementation & tuning |
+| **AI/LLM Security** | Generative AI security gates, LLM API protection, prompt injection prevention |
+| **Cloud-Native** | Kubernetes cluster hardening, secure CI/CD pipelines, container runtime protection |
+| **Container Security** | Docker image scanning, runtime protection, auto-scaling node security |
+| **Multi-Cloud** | AWS, GCP, Azure security architecture with Infrastructure-as-Code security |
 
-### **Infrastructure & DevOps**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE00FF?style=for-the-badge&logo=ansible&logoColor=white)
+### ⚔️ Offensive Security & Threat Research
+| Domain | Expertise |
+|--------|-----------|
+| **Penetration Testing** | Web, Network, Cloud, API infrastructure exploitation |
+| **AI Security Research** | Threat modeling for Generative AI systems & LLMs |
+| **Red Teaming** | Advanced threat detection, packet analysis, malware reverse engineering |
+| **Security Automation** | Intelligent threat detection and remediation systems |
 
-### **Cloud & Platforms**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📋 GRC & Strategic Leadership
+| Domain | Expertise |
+|--------|-----------|
+| **Compliance** | RMF, NIST, SOC 2, ISO 27001 alignment & implementation |
+| **Risk Management** | POA&M remediation, vulnerability assessments, technical audits (EMEA/APAC) |
+| **Executive Reporting** | C-suite risk reports translating technical vulnerabilities into business impact |
+| **Audit Leadership** | Enterprise technical audits and compliance assessments |
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🚀 Featured Projects
 
-* 🔭 **Currently:** 
-  - Building AutoSecForge Pro (AI-powered DAST platform)
-  - Researching **LLM Security** and adversarial AI exploitation
-  - Automating Kubernetes security scanning with AI-driven insights
-  
-* 👯 **Open for:** 
-  - Collaborating on security automation and open-source GRC tools
-  - AI security research partnerships
-  - Speaking engagements on AppSec and AI safety
-  
-* 💬 **Ask me about:** 
-  - Application Security & AppSec automation
-  - DevSecOps & Kubernetes security
-  - AI/LLM security and safety
-  - Starting a career in Cybersecurity
+### 🔥 AutoSecForge Pro (v2.2.0+)
+> **Enterprise AI-Powered DAST Platform**
 
----
+An intelligent Dynamic Application Security Testing platform revolutionizing vulnerability discovery.
 
-## 📫 Get in Touch
+- 🤖 **AI-driven** vulnerability detection and contextual analysis
+- 🔍 **Advanced payload generation** with adaptive threat modeling
+- 📊 **Enterprise-grade reporting** with compliance tracking dashboards
+- 🔐 **Multi-tenant architecture** with granular RBAC
+- 🏗️ **Status:** Active Development | [View Project](https://github.com/striketm98)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tamal-kanti-mazumder-707198175/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mazumdertamal81@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/striketm98)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/striketm98)
+### 🛠️ Security Automation Suite
+- **K8s Sentinel** — Kubernetes security scanning & compliance automation
+- **ThreatHunter AI** — AI-driven threat hunting and incident detection
+- **IaC Guard** — Infrastructure-as-code security validation toolkit
+- **CI/CD Shield** — Pipeline security hardening framework
 
 ---
 
-## 🎓 Certifications & Credentials
+### 📈 Security Engagements (2024-2026)
 
-- **Offensive Security Certified Professional (OSCP)**
-- **Certified Ethical Hacker (CEH)**
-- **AWS Certified Security Specialist**
-- **Kubernetes Security Specialist**
-- **GIAC Security Essentials (GSEC)**
+| Category | Count | Impact |
+|----------|-------|--------|
+| 🔴 Penetration Tests | 12 | Critical vulnerabilities identified & remediated |
+| 🔵 SAST/DAST Analysis | 14 | 40+ enterprise clients secured |
+| 🟣 AI/LLM Security Audits | 8 | Industry-standard research contributions |
+| 🟢 Cloud Security Assessments | 10 | Fortune 500 K8s implementations |
+| 🟡 GRC Compliance Audits | 9 | EMEA/APAC regulatory alignment |
 
----
+### 🏆 Professional Milestones
 
-## 📊 Key Achievements & Impact
-
-### **Security Assessments & Engagements (2024-2026)**
-
-| Category | Count |
-|----------|-------|
-| Penetration Tests | 12 |
-| SAST/DAST Analysis | 14 |
-| AI/LLM Security Audits | 8 |
-| Cloud Security Assessments | 10 |
-| GRC Compliance Audits | 9 |
-
-### **Professional Metrics**
-
-- ✅ **5+ Years** of hands-on cybersecurity experience
+- ✅ **5+ Years** hands-on cybersecurity experience
 - ✅ **40+ Enterprise Clients** across EMEA and APAC regions
 - ✅ **100+ Vulnerabilities** identified and remediated
 - ✅ **Kubernetes Security** implementations for Fortune 500 companies
@@ -165,5 +118,128 @@ I lead specialized training programs for **B.Sc. and B.Tech graduates** to bridg
 
 ---
 
-**Last Updated:** June 2026  
-*Always learning. Always securing. Always innovating.* 🔐
+## 🛠️ Tech Stack
+
+### Security & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-0066FF?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+</p>
+
+### Infrastructure & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+### Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+---
+
+## 🎓 Certifications & Credentials
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security_Certified_Professional-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-000000?style=for-the-badge&logo=ec-council&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Security_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes_Security_Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSEC-GIAC_Security_Essentials-003366?style=for-the-badge&logo=giac&logoColor=white" />
+</p>
+
+---
+
+## 👨‍🏫 Training & Mentorship
+
+I lead specialized training programs for **B.Sc. and B.Tech graduates** to bridge the industry skill gap.
+
+### 🎓 Available Programs
+| Program | Format | Level |
+|---------|--------|-------|
+| 🎯 Real-world Penetration Testing Bootcamp | Online / Offline (Kolkata) | Intermediate |
+| ☁️ Cloud-Native Security & DevSecOps Labs | Hands-on Labs | Advanced |
+| 🤖 AI/LLM Security Workshop | Workshop | Intermediate |
+| 🏗️ Kubernetes Security Deep Dive | Intensive | Advanced |
+| 📋 GRC & Compliance Training | Corporate | All Levels |
+
+> 📍 **Premium Offline Training available in Kolkata, India**
+> 
+> 💬 *"200+ cybersecurity professionals trained and counting"*
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tamal-kanti-mazumder-707198175/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mazumdertamal81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/striketm98">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/striketm98">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 💬 Ask Me About
+- 🛡️ Application Security & AppSec automation
+- 🚀 DevSecOps & Kubernetes security
+- 🤖 AI/LLM security and safety
+- 🎓 Starting a career in Cybersecurity
+- 📋 Enterprise GRC and compliance strategy
+
+---
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=striketm98&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<!-- Profile Trophy -->
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+</p>
+
+<p align="center">
+  <i>Always learning. Always securing. Always innovating.</i> 🔐
+</p>
+
+<p align="center">
+  <b>Last Updated:</b> June 2026
+</p>
